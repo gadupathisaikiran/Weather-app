@@ -93,7 +93,7 @@ console.log(data)
     }
 
     {
-        mem&&city.length==0&&<div >
+        mem.length>0&&city.length==0&&<div >
 
         <h1 style={{color:"blue"}}>Last 3 City Entries</h1>
 

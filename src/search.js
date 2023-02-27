@@ -104,7 +104,7 @@ console.log(data)
                     }
                     return(
                         
-                        <h3>{mem[mem.length-i]}</h3>
+                        <h3>{mem[mem.length-i-1]}</h3>
                     )
                 })
            
